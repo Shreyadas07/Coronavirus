@@ -1,0 +1,126 @@
+body
+{
+  position: relative;
+  padding-top: 70px;
+  background-color: #effffd;
+}
+
+h1
+{
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    color: #1D2D50;
+
+}
+
+h2{
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
+  color: #1D2D50;
+  font-size: 35px;
+  font-weight: bold;
+}
+
+
+hr{
+
+ border-top: none;
+ border-bottom: none;
+ width: 4%;
+ border-color: #CFD2CF;
+ margin-bottom: 50px;
+}
+
+p
+{
+    width: 50%;
+    font-family: sans-serif;
+    line-height: 2;
+    margin: 50px auto;
+    color: #133B5C;
+
+}
+
+h5,a{
+  color: #133B5C;
+  margin: 10px 20px;
+   text-decoration: none;
+}
+
+
+.lists
+{
+    font-family: 'Ubuntu', sans-serif;
+    margin-left: 400px;
+    margin-right: 100px;
+    text-align: justify;
+    color: #0F3460;
+    font-size: 20px;
+
+}
+.navbar
+{
+    background-color: #effffd;
+
+}
+.Pera{
+  font-family: 'Ubuntu', sans-serif;
+  margin-left: 200px;
+  margin-right: 100px;
+  line-height: 2;
+  text-align: justify;
+}
+
+.bottom-container{
+  font-family: sans-serif;
+  text-align: center;
+
+
+}
+.COVID-19{
+  background-image: url("../Images/Coronavirus.jpg");
+  height: 700px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+  font-weight: bold;
+}
+
+
+.heading3{
+  background-image: url("../Images/Protection.jpg");
+  height: 600px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+
+}
+
+.Sixth-Pera1{
+  color: #ffff;
+  font-size: 35px;
+}
+
+.Sixth-Pera{
+  color: #ffff;
+
+}
+.Second-Pera,
+.Third-Pera,
+.Forth-Pera,
+.Fifth-Pera,
+{
+  font-size: 10px;
+}
+
+.copyright{
+  color: #10A19D;
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
+.Description{
+  font-size: 30px;
+}
